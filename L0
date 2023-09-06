@@ -3,7 +3,6 @@
 -- from query_2465489
 -- order by rank_id
 -- limit 1000000
-
 with user_summary as (
     select user_address, 
         count(*) as transaction_count,
