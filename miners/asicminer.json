@@ -1,0 +1,22 @@
+{
+    "full_name": "ASIC Miner",
+    "for_amd": false,
+    "for_nvidia": false,
+    "for_cpu": false,
+    "for_asic": true,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": null,
+    "default_fork": null,
+    "default_units": "ths",
+    "algos": [],
+    "dalgos": [],
+    "algomap": {
+        "blake(2b)": "blake2b",
+        "blake2b(sc)": "blake2b",
+        "blake2bsha3(hns)": "bl2bsha3",
+        "eaglesong(ckb)": "eaglesong",
+        "scrypt(ltc)": "scrypt"
+    },
+    "forks": []
+}
