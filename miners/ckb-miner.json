@@ -1,0 +1,16 @@
+{
+    "full_name": "CKB-Miner",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": true,
+    "for_asic": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "eaglesong",
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [],
+    "dalgos": [],
+    "algomap": {},
+    "forks": []
+}
